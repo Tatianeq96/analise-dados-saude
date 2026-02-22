@@ -4,6 +4,8 @@ Projeto de análise de dados na área da saúde utilizando Excel/ Power BI
 
 ## 📌 Sobre o Projeto
 Este projeto apresenta um dashboard desenvolvido em Excel com o objetivo de analisar a distribuição de leitos hospitalares no Brasil em 2025.
+## 📊 Fonte dos Dados
+Dados públicos do CNES / DATASUS (Ministério da Saúde).
 
 A análise contempla aspectos como:
 - Tipo de gestão
